@@ -4,7 +4,7 @@
 
 ## linux常用操作 <a id="00-basic-operation"></a>
 
-* [vim命令]()
+* [vim命令](00-basic-operation/00-vim.md)
 * [新建文件/文件夹]()
 * [添加程序到应用列表]()
 * [解压缩]()
