@@ -13,7 +13,7 @@
 ## ubuntu配置 <a id="01-ubuntu-setting"></a>
 
 * [apt-get源加速](01-ubuntu-setting/00-apt-get.md)
-* [v2ray]()
+* [v2ray](01-ubuntu-setting/01-v2ray.md)
 * [zsh&oh-my-zsh]()
 * [显卡驱动&CUDA]()
 * [Git]()
