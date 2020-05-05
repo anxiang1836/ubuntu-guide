@@ -10,7 +10,7 @@ sudo fdisk -l
 
 ![](https://raw.githubusercontent.com/anxiang1836/FigureBed/master/img/20200505123655.png)
 
-**Step3：**使用mount命令挂在磁盘，例如：
+**Step3：**使用mount命令挂载磁盘，例如：
 
 ```bash
 sudo mount -t ext4 /dev/sdb1 /home/maxma/nlp
