@@ -5,9 +5,9 @@
 ## linux常用操作 <a id="00-basic-operation"></a>
 
 * [vim命令](00-basic-operation/00-vim.md)
-* [新建文件/文件夹]()
-* [添加程序到应用列表]()
-* [解压缩]()
+* [解压缩](00-basic-operation/01-tar.md)
+* [添加程序到应用列表](00-basic-operation/02-add-desktop.md)
+* [挂在硬盘](00-basic-operation/03-mount-disk.md)
 * [dkpg命令]()
 
 ## ubuntu配置 <a id="01-ubuntu-setting"></a>

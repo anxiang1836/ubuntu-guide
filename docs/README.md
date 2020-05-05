@@ -1,6 +1,6 @@
 # UBUNTU入坑指南
 
-Gitbook链接：
+Gitbook链接：https://anxiang1836.gitbook.io/ubuntu-guide/
 
 ## 前言
 
